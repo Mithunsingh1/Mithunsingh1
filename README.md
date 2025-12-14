@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **💬 Ask me Java, Spring Boot, REST APIs, Microservices, MySQL, Spring Security, JWT, OAuth2, Thymeleaf, and Full-Stack Development.**
 
-- 📫 How to reach me **samarsingh9569@gmail.com || www.linkedin.com/in/mithunsingh01**
+- 📫 How to reach me **samarsingh9569@gmail.com || www.linkedin.com/in/mithunsingh01**|| Portfolio: https://mithunsingh1.github.io/mithunsingh12/
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TPpUx1RDIHv86IjuSNOdVaGcw7etmUcZ/view?usp=sharing](https://drive.google.com/file/d/1TPpUx1RDIHv86IjuSNOdVaGcw7etmUcZ/view?usp=sharing)
 
